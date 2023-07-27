@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1669863495 source:c:\users\adminn\desktop\2022_11_29_game_c_2\main.cpp
+	<iostream>
+	"Game_Produce.h"
+	"Desk_Clear.h"
+	"Game_UserTask.h"
+	"Game_Setup.h"
+	"Game_Search.h"
+	"Game_Recover.h"
+
+1669811849 c:\users\adminn\desktop\2022_11_29_game_c_2\game_produce.h
+
+1669726302 source:c:\users\adminn\desktop\2022_11_29_game_c_2\game_produce.cpp
+	<iostream>
+	"Game_Produce.h"
+	"Random_Init.h"
+
+1669719523 c:\users\adminn\desktop\2022_11_29_game_c_2\random_init.h
+
+1669721113 source:c:\users\adminn\desktop\2022_11_29_game_c_2\random_init.cpp
+	"Random_Init.h"
+	<cstdlib>
+	<ctime>
+
+1669723947 c:\users\adminn\desktop\2022_11_29_game_c_2\desk_clear.h
+
+1669863716 source:c:\users\adminn\desktop\2022_11_29_game_c_2\desk_clear.cpp
+	"Desk_Clear.h"
+	<iostream>
+	"Game_Produce.h"
+
+1669820093 source:c:\users\adminn\desktop\2022_11_29_game_c_2\game_usertask.cpp
+	"Game_UserTask.h"
+	"Game_Produce.h"
+	<iostream>
+
+1669790087 c:\users\adminn\desktop\2022_11_29_game_c_2\game_usertask.h
+
+1669727626 source:c:\users\adminn\desktop\2022_11_29_game_c_2\game_setup.cpp
+	"Game_Setup.h"
+	"Game_Produce.h"
+
+1669727557 c:\users\adminn\desktop\2022_11_29_game_c_2\game_setup.h
+
+1669813768 c:\users\adminn\desktop\2022_11_29_game_c_2\game_search.h
+
+1669815755 source:c:\users\adminn\desktop\2022_11_29_game_c_2\game_search.cpp
+	"Game_Produce.h"
+	<iostream>
+
+1669865013 source:c:\users\adminn\desktop\2022_11_29_game_c_2\game_recover.cpp
+	"Game_Recover.h"
+	"Game_Produce.h"
+	"Game_UserTask.h"
+	"Game_Search.h"
+	<iostream>
+
+1669811983 c:\users\adminn\desktop\2022_11_29_game_c_2\game_recover.h
+	"Game_Produce.h"
+

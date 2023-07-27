@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="2022_11_29_GAME_C_2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/2022_11_29_GAME_C_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/2022_11_29_GAME_C_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Desk_Clear.cpp" />
+		<Unit filename="Desk_Clear.h" />
+		<Unit filename="Game_Produce.cpp" />
+		<Unit filename="Game_Produce.h" />
+		<Unit filename="Game_Recover.cpp" />
+		<Unit filename="Game_Recover.h" />
+		<Unit filename="Game_Search.cpp" />
+		<Unit filename="Game_Search.h" />
+		<Unit filename="Game_Setup.cpp" />
+		<Unit filename="Game_Setup.h" />
+		<Unit filename="Game_UserTask.cpp" />
+		<Unit filename="Game_UserTask.h" />
+		<Unit filename="Random_Init.cpp" />
+		<Unit filename="Random_Init.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
